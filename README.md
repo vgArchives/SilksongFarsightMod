@@ -11,6 +11,8 @@ This mod enables the display of the game completion percentage on the save-profi
 By default it will be under:
 (YourDrive):\Program Files (x86)\Steam\steamapps\common\Hollow Knight Silksong\BepInEx\core
 
-3) Download and extract **SilksongFarsightMod.zip** and place the **SilksongFarsightMod.dll** inside BepInEx/plugins directory. 
+3) Go to the mod page on Nexus Mods: [Always Show Completion Progress](https://www.nexusmods.com/hollowknightsilksong/mods/802)
+
+4) Download and extract **SilksongFarsightMod.zip** and place the **SilksongFarsightMod.dll** inside BepInEx/plugins directory. 
 By default it will be under:
 (YourDrive):\Program Files (x86)\Steam\steamapps\common\Hollow Knight Silksong\BepInEx\plugins
