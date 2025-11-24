@@ -1,0 +1,20 @@
+# Build output
+bin/
+obj/
+
+# Rider / JetBrains
+.idea/
+*.DotSettings.user
+
+# VS Code
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+*.cache
+
+# Backup and temp
+*.tmp
+*.bak
+*.old
